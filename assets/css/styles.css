@@ -199,7 +199,7 @@ html {
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url('/hinhanh1.jpg') top center / cover no-repeat;
+    background: url('https://github.com/vanhoang1103/demo/blob/main/assets/css/img/hinhanh1.jpg?raw=true') top center / cover no-repeat;
 }
 
 #slider .text-content{
